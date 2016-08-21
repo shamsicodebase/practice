@@ -18,3 +18,4 @@ git checkout rest-api
 - Run localhost/practice/rest-api/install.php
 - Now you can browse the following:
 - http://localhost/practice/rest-api/get.php?format=json&showhtml=true
+- Simple PHPUnit test example checkFormatTest.php
